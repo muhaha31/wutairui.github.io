@@ -1644,8 +1644,12 @@ td {
   text-align: right;
 }
 
-      .post-content img {
+      .post-detail .post .post-content img {
+  {
+    display: inline-block;
     width: 300px;
     height: auto;
+    text-align: left;
+    
 }
     
