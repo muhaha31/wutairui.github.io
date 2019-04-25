@@ -1643,3 +1643,9 @@ td {
 .katex .mtable .col-align-r > .vlist {
   text-align: right;
 }
+
+      .post-content img {
+    width: 300px;
+    height: auto;
+}
+    
